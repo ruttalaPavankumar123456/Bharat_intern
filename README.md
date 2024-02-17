@@ -11,6 +11,7 @@ Task 2: Movie Recommendation
 Description: Develop a machine learning model to recommend movies in a Jupyter notebook.
 
 Dataset: https://www.kaggle.com/datasets/ahsanaseer/top-rated-tmdb-movies-10k
+
 Task 3: Iris Flowers Classification
 Description: Create a machine learning model to classify different species of flowers based on the length of their petals and sepals in a Jupyter notebook.
 
